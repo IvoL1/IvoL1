@@ -6,11 +6,11 @@
 
 💻 I am a Fullstack developer.
 
-🎓 Currently studying [Analysis and Systems Development](https://www.mackenzie.br) @ [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br).
+🎓 Currently studying [Analysis and Systems Development](https://www.mackenzie.br) -- [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br).
 
 👩‍💻 I am currently looking for job opportunities.
 
-🔎 I'm also curious about learning TypeScript.
+🔎 I'm also curious about learning Golang.
 
 ✒️ In my free time, I enjoy going to the gym, watching movies and series, and taking on coding challenges.
 
