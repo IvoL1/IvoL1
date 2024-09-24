@@ -1,4 +1,4 @@
-![oie_20175710evf6J7QR](https://github.com/user-attachments/assets/7fa76376-88e3-4bd7-85ff-d4c8175ebc51)
+
 
 
 <div id="toc">
