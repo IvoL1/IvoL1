@@ -14,14 +14,7 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="ivoluis239@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/IvoL1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ivo-luis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/ilro23" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento web fullstack. Estou em busca de oportunidades para ingressar na área, sempre buscando aprender e me aprimorar na criação de aplicações web robustas e escaláveis. Tenho interesse em tecnologias de front-end e back-end, com foco em melhorar a experiência do usuário e otimizar o desempenho</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Fazendo curso Full Stack da Rocketseat**
-- 🌱 I'm currently learning: **📚 Aprendendo sobre Node.js e Express**
-- 💬 Ask me about: **💡 HTML, CSS, JavaScript, TypeScript**
-- ⚡ Fun fact: **🎢 Sempre que encontro um problema no código, vejo como uma oportunidade de aprender algo novo e melhorar minhas habilidades!**
 
  **<h3 align="left">Skills</h3>**
 
